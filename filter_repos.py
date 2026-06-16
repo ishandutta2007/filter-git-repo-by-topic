@@ -68,8 +68,8 @@ def main():
         print(f"No repositories found with topic: {args.topic}")
     else:
         print(f"\nRepositories with topic '{args.topic}':")
-        for repo in filtered_repos:
-            print(f"- {repo['full_name']} ({repo['html_url']})")
+        for i, repo in enumerate(filtered_repos, 1):
+            print(f"{i}. {repo['full_name']} ({repo['html_url']})")
 
 if __name__ == "__main__":
     main()
