@@ -1,0 +1,10 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="10" fill="#0D1117"/>
+  <path d="M50 40C50 34.4772 54.4772 30 60 30H740C745.523 30 750 34.4772 750 40V160C750 165.523 745.523 170 740 170H60C54.4772 170 50 165.523 50 160V40Z" fill="#161B22"/>
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#58A6FF" text-anchor="middle">Repo Filter by Topic</text>
+  <text x="400" y="130" font-family="Arial, sans-serif" font-size="18" fill="#8B949E" text-anchor="middle">Powerful GitHub Repository Discovery via Admin API</text>
+  <circle cx="70" cy="50" r="6" fill="#FF5F56"/>
+  <circle cx="90" cy="50" r="6" fill="#FFBD2E"/>
+  <circle cx="110" cy="50" r="6" fill="#27C93F"/>
+  <path d="M370 150L385 165L415 135" stroke="#238636" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
